@@ -77,8 +77,8 @@
 
 ## OUTPUT IMAGES
 
-<img src="images/screenshot-1.png" width="200" height="400" />
-<img src="images/screenshot-2.png" width="200" height="400" />
+<img src="images/screenshot-1.png"  />
+<img src="images/screenshot-2.png"  />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
