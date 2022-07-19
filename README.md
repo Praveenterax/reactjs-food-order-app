@@ -94,7 +94,8 @@
 ### Prerequistes
 
 - Create a firebase account or use your existing account to log in.
-- Create a database name and add content in this way.
+- Feel free to use your own data and database provider. But the json content over the request must be in the **below format**.
+- Create a database name and add content in it.
   > Id of the item -> then fields _description_ _name_ _price_ with same names refer [AvailableMeals.jsx](src/components/Meals/AvailableMeals.jsx) **line 6**
 
 <p align="right">(<a href="#top">back to top</a>)</p>
