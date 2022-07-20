@@ -154,17 +154,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Praveen Dunga - [@praveenterax](https://instagram.com/praveenterax) - praveendunga789@gmail.com
 
-Project Link: [https://github.com/Praveenterax/reactjs-food-order-app](https://github.com/Praveenterax/reactjs-food-order-app)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- []()
-- []()
-- []()
+Project Link: [https://praveenterax-food-order.netlify.app](https://github.com/Praveenterax/reactjs-food-order-app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
